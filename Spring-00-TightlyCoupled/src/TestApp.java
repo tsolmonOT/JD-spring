@@ -1,4 +1,4 @@
-public class CybertekApp {
+public class TestApp {
     public static void main(String[] args) {
 
         FullTimeMentor fullTime = new FullTimeMentor();
